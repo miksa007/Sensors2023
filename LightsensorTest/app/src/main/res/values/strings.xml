@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LightsensorTest</string>
+    <string name="error_no_sensor"> Ei löydy sensoria </string>
+    <string name="label_light">Light Sensor: %1$.2f</string>
+</resources>
