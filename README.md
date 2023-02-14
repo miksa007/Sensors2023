@@ -131,6 +131,6 @@ Android sovellus sensorien esittelyyn. Tässä tutoriaalissa rakennetaan valosen
     }
 ```
 
-15.3.2021 - Toimii edelleen
-14.3.2022 - Toimii edelleen
+15.3.2021 - Toimii edelleen,
+14.3.2022 - Toimii edelleen,
 14.2.2023 - Updated
